@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#4d6fa6"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">영천</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#4d6fa6"/><path d="M30.0 15.0L34.7 27.5L48.1 28.1L37.6 36.5L41.2 49.4L30.0 42.0L18.8 49.4L22.4 36.5L11.9 28.1L25.3 27.5Z" fill="#fff" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><path d="M50.0 9.0L51.4 13.1L55.7 13.1L52.3 15.7L53.5 19.9L50.0 17.4L46.5 19.9L47.7 15.7L44.3 13.1L48.6 13.1Z" fill="#fff" opacity=".85"/></svg>
